@@ -1,2 +1,2 @@
-# Free-Icons-Role-icons-
-Free to use and high quality svg icons for roles.
+# Free Icons (Role Icons)
+Free to use High quality svg icons for roles.
